@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Thanos Restaurant</string>
+    <string name="thanos_restaurant">Thanos\nRestaurant</string>
+    <string name="status">I am invitable</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="dishes">Dishes</string>
+    <string name="star_dishes">Star Dishes</string>
+    <string name="hot_vegetables">Hot Vegetables</string>
+    <string name="material_involved">Material Involved</string>
+    <string name="recent_visitors">Recent Visitors</string>
+    <string name="buy">Buy</string>
+    <string name="more">More</string>
+    <string name="titan_pumpkin">Titan Pumpkin</string>
+    <string name="titan_pumpkin_desc">Thanos planted by himself</string>
+    <string name="raspberry_smoothie">Raspberry Smoothie</string>
+    <string name="unknown_salad">Unknown Salad</string>
+    <string name="magical_ghost_fruit">Magical Ghost Fruit</string>
+    <string name="magical_ghost_fruit_desc">Develop using infinity stones</string>
+    <string name="titan_star_banana">Titan Star Banana</string>
+</resources>
